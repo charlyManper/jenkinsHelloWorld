@@ -1,0 +1,7 @@
+fsaksjdvnadslf12039842923039112p3io1p3i32
+
+JENKINS_URL/job/HelloWorld/build?token=TOKEN_NAME or /buildWithParameters?token=TOKEN_NAME
+
+localhost:8080/job/HelloWorld/build?token=TOKEN_NAME or /buildWithParameters?token=fsaksjdvnadslf12039842923039112p3io1p3i3
+
+http://localhost:8080/jenkins//job/HelloWorld/build?token=fsaksjdvnadslf12039842923039112p3io1p3i32
